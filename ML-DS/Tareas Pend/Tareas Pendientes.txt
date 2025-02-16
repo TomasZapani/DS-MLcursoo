@@ -1,1 +1,1 @@
-resolver otros
+Manejar el tema de errores en el proyecto, manejar el tema de los if para cada input
