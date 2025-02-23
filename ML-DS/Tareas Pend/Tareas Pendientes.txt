@@ -1,1 +1,2 @@
-Manejar el tema de errores en el proyecto, manejar el tema de los if para cada input
+Exporta los gráficos en formato PNG con plt.savefig().
+Agrega interactividad con matplotlib widgets o usa seaborn para mejorar la estética.
