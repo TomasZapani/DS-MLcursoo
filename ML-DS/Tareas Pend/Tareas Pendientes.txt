@@ -1,2 +1,2 @@
-Exporta los gráficos en formato PNG con plt.savefig().
 Agrega interactividad con matplotlib widgets o usa seaborn para mejorar la estética.
+modif los años a int en el de línea
