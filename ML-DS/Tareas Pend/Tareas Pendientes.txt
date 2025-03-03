@@ -1,2 +1,1 @@
-Agrega interactividad con matplotlib widgets o usa seaborn para mejorar la estética.
-modif los años a int en el de línea
+Terminar el proyecto de seaborn
